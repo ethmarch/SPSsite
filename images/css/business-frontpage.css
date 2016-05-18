@@ -37,13 +37,13 @@ body {
 
 .tagline-1 {
     margin-top: 210px;
-    text-shadow: 0 0 7px black;
-    color: rgb(222, 27, 27);
+    text-shadow: 0 0 10px black;
+    color: red;
     font-weight: 900;
 }
 
 .tagline-2 {
-    text-shadow: 0 0 7px black;
+    text-shadow: 0 0 10px black;
     color: rgb(222, 27, 27);
     font-weight: 900;
 }
