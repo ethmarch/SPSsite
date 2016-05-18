@@ -1,0 +1,57 @@
+/*!
+ * Start Bootstrap - Business Frontpage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #2b2b2b;
+    color: rgb(246, 246, 246);
+}
+
+.navbar-inverse {
+    background-color: rgb(222, 27, 27);
+    border-color: rgb(222, 27, 27);
+}
+
+.navbar-inverse .navbar-brand {
+    color: #F8F8F8
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #F8F8F8;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+.business-header {
+    height: 400px;
+    background: url('http://www.sigmapisigma.org/sites/default/files/images/awards/2016/northeastern-mwa-photo.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline-1 {
+    margin-top: 210px;
+    text-shadow: 0 0 7px black;
+    color: rgb(222, 27, 27);
+    font-weight: 900;
+}
+
+.tagline-2 {
+    text-shadow: 0 0 7px black;
+    color: rgb(222, 27, 27);
+    font-weight: 900;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+footer {
+    margin: 50px 0;
+}
