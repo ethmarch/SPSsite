@@ -37,17 +37,15 @@ body {
 
 .tagline-1 {
     margin-top: 210px;
-    text-shadow: 0 0 0px black;
+    text-shadow: 0 0 7px black;
     color: rgb(222, 27, 27);
     font-weight: 900;
-    background-color: rgb(246, 246, 246);
 }
 
 .tagline-2 {
-    text-shadow: 0 0 0px black;
+    text-shadow: 0 0 7px black;
     color: rgb(222, 27, 27);
     font-weight: 900;
-    background-color: rgb(246, 246, 246);
 }
 
 .img-center {
